@@ -1,1 +1,2 @@
 - Python и WEB (HTML, JavaScript, CSS) разработчик
+- 18 лет отроду
