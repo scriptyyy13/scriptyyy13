@@ -1,1 +1,1 @@
-- 👋
+- Python и WEB (HTML, JavaScript, CSS) разработчик
